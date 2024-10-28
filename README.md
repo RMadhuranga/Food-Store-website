@@ -73,6 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - rukmalmadhurangadissanayaka@gmail.com](rukmalmadhurangadissanayaka@gmail.com)
+Your Name - rukmalmadhurangadissanayaka@gmail.com
 
 Project Link: [https://github.com/RMadhuranga/food-store-website](https://github.com/RMadhuranga/food-store-website)
