@@ -12,12 +12,15 @@ Functionalities:
 Technologies:
 
   Front-end:
-    -HTML
-    -CSS
-    -Javascript
+  
+      -HTML
+      -CSS
+      -Javascript
 
   Back-end:
-    -PHP
+  
+      -PHP
 
   Database:
-    -MySQL
+  
+      -MySQL
